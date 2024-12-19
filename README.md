@@ -22,7 +22,7 @@ How can the company optimize its product portfolio by identifying high- and low-
 - The final dataset shape: 44152 rows, 22 columns, no missing values
 
 ## Documentation and Presentation
-- [Python notebook](): full flow of the project.
-- [Report](): a detailed report covering descriptive analysis, impact of discount strategies, product bundling ppportunities, A/B testing, tableau dashboard and conclusions.
+- [Python notebook](https://github.com/Rina-Irene-arch/Superstore_Products_Data_Analysis/blob/main/Naya_DRA_Final_Project_Rina_Rafalski_Z1_V.ipynb): full flow of the project.
+- [Report](https://github.com/Rina-Irene-arch/Superstore_Products_Data_Analysis/blob/main/Naya_DRA_Final_Project_ppt_Rina_Rafalski_L_Fin.pdf): a detailed report covering descriptive analysis, impact of discount strategies, product bundling ppportunities, A/B testing, tableau dashboard and conclusions.
  
 
