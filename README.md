@@ -1,4 +1,4 @@
-# Superstore Products Data Analysis Final Capstone NAYA Project
+# Superstore Products Data Analysis Final Capstone Project
 
 ## Project Overview
 This project aims to provide a comprehensive overview of products of Superstore retail business located in the United States which is specialized on selling Office Supplies and Technology products, furniture etc. focusing on products sales, and profitability, with a specific emphasis on high- and low-profit products, impact of discount strategies and uncovering opportunities for product bundling.
